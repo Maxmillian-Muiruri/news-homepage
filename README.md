@@ -1,5 +1,7 @@
 # News Homepage Project
 
+➡[View live site]](https://news-homepage-ochre-two.vercel.app/)
+
 ![Project Overview](./image.png)
 
 ## Project Description
@@ -8,7 +10,7 @@ This project is a responsive news homepage built with HTML and CSS. It features 
 
 ## How to View the Project
 
-To view the project, simply open the `index.html` file in any modern web browser. The page is designed to be responsive and works well on both mobile and desktop devices.
+To view the project, simply open the `index.html` file in any modern web browser. The page is designed to be responsive and works well on desktop devices.
 
 ## Project Structure
 
